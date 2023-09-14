@@ -1,0 +1,47 @@
+body {
+    
+    font-family:fantasy ;
+    background-image: url('../images/background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+#txtBemvindo {
+    font-size: 300%;
+    -webkit-text-stroke: 1.5px #000000;
+}
+#txtBemvindo2 {
+    font-size: 200%;
+    -webkit-text-stroke: 1.5px #000000;
+}
+button {
+    color: #ffffff;
+    background-color: #1c4ba0;
+    font-size: 24px;
+    border: 1px solid #2d63c8;
+    padding: 15px 50px;
+    letter-spacing: 1px;
+    cursor: pointer
+}
+button:hover {
+    color: #ffffff;
+    background-color: #800000;
+}
+
+.radioButton{
+    -webkit-text-stroke: 1.5px #000000;
+    margin: 1%;
+    font-size: 150%;
+}
+
+#conteudo {
+    width: 70%;
+    padding: 5%;
+    margin-left: 10%;
+    margin-right: 15%;
+    background-color: rgba(156, 0, 0, 0.37);
+}
+
